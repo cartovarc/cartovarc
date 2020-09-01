@@ -34,4 +34,4 @@
 - 💬 Ask me about DJI SDK
 - 📫 How to reach me: you can reach me from the social media links above
 - 😄 Pronouns: he/him
-- ⚡ Languages: C, C++, Python, Java
+- ⚡ Languages: C, C++, Python, Java, Javascript
