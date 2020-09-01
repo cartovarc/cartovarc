@@ -29,7 +29,7 @@
 <br/><br/>
 
 - 🔭 I’m currently working on an drone aerial surveillance software solution
-- 🌱 I’m currently learning Kubernetes, Docker
+- 🌱 I’m currently learning Kubernetes and Docker
 - 👯 I’m looking to collaborate on developer tools for drones projects
 - 💬 Ask me about DJI SDK
 - 📫 How to reach me: you can reach me from the social media links above
