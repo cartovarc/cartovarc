@@ -1,6 +1,6 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href= "https://www.linkedin.com/in/carlos-fernando-tovar-ceron/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
+  <a href= "https://www.linkedin.com/in/cartovarc/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
   <a href= "https://medium.com/@cartovarc"><img src="https://img.icons8.com/dusk/48/000000/medium-new.png"/></a>
   <a href= "https://twitter.com/cartovarc"><img src="https://img.icons8.com/dusk/48/000000/twitter.png"/></a>
   <a href= "https://www.youtube.com/channel/UCED79TelBGrG7guDFqD8qBA"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
@@ -22,10 +22,8 @@
 </p>
 <br/><br/>
 
-- 🔭 I’m currently working on an drone aerial surveillance software solution
-- 🌱 I’m currently learning Kubernetes and Docker
+- 🔭 I’m currently working as a full stack developer
+- 🌱 I’m currently learning iOS and WebRTC development
 - 👯 I’m looking to collaborate on developer tools for drones projects
-- 💬 Ask me about DJI SDK
 - 📫 How to reach me: you can reach me from the social media links above
-- 😄 Pronouns: he/him
 - ⚡ Languages: C, C++, Python, Java, Javascript
