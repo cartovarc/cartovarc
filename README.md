@@ -18,6 +18,6 @@
 
 - 🔭 I’m currently working as a Python Developer
 - 🌱 I’m currently learning GStreamer and WebRTC
-- 👯 I’m looking to collaborate on video multimedia and video projects
+- 👯 I’m looking to collaborate on multimedia, computer vision projects
 - 📫 How to reach me: you can reach me from the social media links above
 - ⚡ Languages: C, C++, Python, Javascript
