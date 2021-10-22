@@ -16,7 +16,7 @@
 </p>
 </p>
 
-- 🔭 I’m currently working as a Python Developer
+- 🔭 I’m currently working as a Full Stack Software Engineer
 - 🌱 I’m currently learning GStreamer and WebRTC
 - 👯 I’m looking to collaborate on multimedia and computer vision projects
 - 📫 How to reach me: you can reach me from the social media links above
