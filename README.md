@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Things I’m doing wrong as a programmer #1](https://medium.com/@cartovarc/things-im-doing-wrong-as-a-programmer-1-dac56eea9ea2?source=rss-28d8f2c8dabf------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
