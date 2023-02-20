@@ -1,23 +1,29 @@
-<h3 align="center">Connect with me</h3>
-<p align="center">
-   <a href= "https://www.linkedin.com/in/cartovarc/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   <a href= "https://medium.com/@cartovarc"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-   <a href= "https://twitter.com/cartovarc"><img src="https://img.shields.io/badge/TWITTER-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-   <a href= "https://www.youtube.com/channel/UCED79TelBGrG7guDFqD8qBA"><img src="https://img.shields.io/badge/YOUTUBE-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-</p>
-<p>
+<h1 align="center">Hi 👋, I'm Carlos Tovar</h1>
+<h3 align="center">A passionate Software Engineer from Colombia.</h3>
 
-<p align="center">
-   <img src="https://views.whatilearened.today/views/github/cartovarc/views.svg"/>
-   <a href="https://github.com/cartovarc?tab=followers"><img src="https://img.shields.io/github/followers/cartovarc?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
-   <a href="https://github.com/cartovarc?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
-   <a href="mailto:cartovarc@gmail.com?subject=[Github] Ask me anything&body=Hello Carlos, I am sending this after seeing your Github Profile"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
-   <img src="https://img.shields.io/badge/OS-macOS-black"/>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cartovarc&label=Profile%20views&color=0e75b6&style=flat" alt="cartovarc" /> </p>
+
+- 🔭 I’m currently working on **Liberty Latin America**
+
+- 🌱 I’m currently learning **MLOps**
+
+- 📝 I regularly write articles on [https://medium.com/@cartovarc](https://medium.com/@cartovarc)
+
+- 📫 How to reach me **cartovarc@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/cartovarc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cartovarc" height="30" width="40" /></a>
+<a href="https://medium.com/@cartovarc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cartovarc" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/cartovarc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cartovarc" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working as a Full Stack Software Engineer
-- 🌱 I’m currently learning GStreamer and WebRTC
-- 👯 I’m looking to collaborate on multimedia and computer vision projects
-- 📫 How to reach me: you can reach me from the social media links above
-- ⚡ Languages: C, C++, Python, Javascript
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cartovarc&show_icons=true&locale=en&layout=compact" alt="cartovarc" /></p>
+
